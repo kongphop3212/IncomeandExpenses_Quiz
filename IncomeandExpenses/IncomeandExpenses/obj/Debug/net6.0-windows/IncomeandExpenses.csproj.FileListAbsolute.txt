@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\IncomeandExpenses.exe
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\IncomeandExpenses.deps.json
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\IncomeandExpenses.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\IncomeandExpenses.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\ref\IncomeandExpenses.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\bin\Debug\net6.0-windows\IncomeandExpenses.pdb
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.Form1.resources
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\ref\IncomeandExpenses.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.pdb
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\IncomeandExpenses\IncomeandExpenses\obj\Debug\net6.0-windows\IncomeandExpenses.genruntimeconfig.cache
